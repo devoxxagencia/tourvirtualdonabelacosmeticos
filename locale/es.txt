@@ -1,0 +1,42 @@
+#: locale=es
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Tour Virtual 360º - Dona Dela Cosméticos 
+
+## Skin
+
+### Button
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA.label = WHATSAPP
+Button_DD8C155D_FBD8_F703_41E5_3975B98931AA_mobile.label = WHATSAPP
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753.label = INSTAGRAM
+Button_DEA9ABD5_FBC9_F303_41E1_AB7527566753_mobile.label = INSTAGRAM
+Button_E6586701_FB4B_7303_41E2_5D84B36689DF.label = LOCALIZAÇÃO
+Button_E6586701_FB4B_7303_41E2_5D84B36689DF_mobile.label = LOCALIZAÇÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = IMAGEM AÉREA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = IMAGEM AÉREA
+
+## Media
+
+### Title
+panorama_3852D1BB_22E1_B8FD_41B1_E8601CA77B58.label = IMG_20220715_104721_00_merged(1)
+panorama_3A3B0311_2220_598D_419D_6ADD991AD92F.label = IMG_20220715_110104_00_merged(1)
+panorama_3A3B54E4_2220_B894_4181_99C85CE94FE4.label = IMG_20220715_105326_00_merged(1)
+panorama_3A3B71B4_2220_78F4_41BA_87AE1013BF3B.label = IMG_20220715_110822_00_merged(1)
+panorama_3A3BC611_2220_DB8C_41AA_0EA63CC36456.label = IMG_20220715_105111_00_merged(1)
+panorama_3E139141_23E0_D98C_41A3_AD507D6F85E5.label = IMG_0001
+
+## Action
+
+### URL
+LinkBehaviour_03C80448_2220_DF9C_41AC_FFF50E7B192B.source = https://api.whatsapp.com/message/LJXX6G3XW6ZRA1?autoload=1&app_absent=0
+LinkBehaviour_3CBD1C9F_2220_48B5_41BD_DB19C581599A.source = https://www.instagram.com/donadelagaravelo/
+LinkBehaviour_3CE1ABBF_2220_48F4_41A9_99BAC60828A2.source = https://www.google.com/maps/dir/-16.7838646,-49.355163/Dona+Dela+Cosm%C3%A9ticos/@-16.7756606,-49.3577821,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef7af8320ad6b:0x647cf4a927efda32!2m2!1d-49.3419111!2d-16.7709345
+LinkBehaviour_3D244094_2223_F8B4_41C1_74C6F5874E39.source = https://www.instagram.com/donadelagaravelo/
+LinkBehaviour_3D26908A_2223_F89D_41B5_6993E9736C4F.source = https://www.google.com/maps/dir/-16.7838646,-49.355163/Dona+Dela+Cosm%C3%A9ticos/@-16.7756606,-49.3577821,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935ef7af8320ad6b:0x647cf4a927efda32!2m2!1d-49.3419111!2d-16.7709345
+LinkBehaviour_3D277097_2223_F8B4_41C1_54A51F9E7960.source = https://www.instagram.com/donadelagaravelo/
+LinkBehaviour_3D2AF096_2223_F8B4_4193_145CDCA14CEB.source = https://api.whatsapp.com/message/LJXX6G3XW6ZRA1?autoload=1&app_absent=0
+LinkBehaviour_3D92495F_2220_C9B4_41B5_803922F67AE7.source = https://www.instagram.com/donadelagaravelo/
